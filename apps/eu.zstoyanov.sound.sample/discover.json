@@ -1,0 +1,49 @@
+[{
+    "name": "Rooster Alarm and Ringtone",
+    "ns": "eu.zstoyanov.roostersounds",
+    "description": "Great collection of rouster sounds switable for ringtones, notification and alarm sounds.",
+    "image": "https:\/\/lh3.googleusercontent.com\/V86la6b4Soi51TtJpbseKu1XqsN2lx490QWidFv_o1k12q2THdIHe-QsYAOcvRGPiuoo",
+    "installs": "10,000 - 50,000 installs",
+    "supportImgResize": true,
+    "url": "https:\/\/play.google.com\/store\/apps\/details?id=eu.zstoyanov.roostersounds"
+}, {
+    "name": "Animal Sounds and Ringtones",
+    "ns": "eu.zstoyanov.animal.sounds",
+    "description": "Great collection of animal sounds switable for ringtones, notification and alarm sounds.",
+    "image": "https:\/\/lh3.googleusercontent.com\/hSt8ADUWZwkPprBC0K4WKZKMJ1reKDO15WTvne54w2gSlMDHiP6xrepEMxj66fZ4_jo",
+    "installs": "",
+    "supportImgResize": true,
+    "url": "https:\/\/play.google.com\/store\/apps\/details?id=eu.zstoyanov.animal.sounds"
+}, {
+    "name": "Cat Alarm and Ringtone Sounds",
+    "ns": "eu.zstoyanov.cats.sounds",
+    "description": "Great collection of kitty and cat meowing and purring sounds.",
+    "image": "https:\/\/lh3.googleusercontent.com\/Ds0uicorgKFUvhNsFXjg3wWuB6w08NHLi4Jw3tYr0-qR5Z5Sv9PFRgaLss8s25UIOQ",
+    "installs": "",
+    "supportImgResize": true,
+    "url": "https:\/\/play.google.com\/store\/apps\/details?id=eu.zstoyanov.cats.sounds"
+}, {
+    "name": "Food Calories",
+    "ns": "eu.zstoyanov.food.calories",
+    "image": "https:\/\/lh3.googleusercontent.com\/WYG7U3svAlZ014FDkAgJzj6ndssfyRKE6JaUPlC_7TRw5ZiPE2ymXiK4-0pTUfXgUQ",
+    "description": "Perfect app for tracking proteins, fats, minerals, vitamins and lipids your food contains.",
+    "installs": "1,000 - 5,000 installs",
+    "supportImgResize": true,
+    "url": "https:\/\/play.google.com\/store\/apps\/details?id=eu.zstoyanov.food.calories"
+}, {
+    "name": "Best Quotes",
+    "ns": "eu.zstoyanov.quotes",
+    "image": "https:\/\/lh3.googleusercontent.com\/hHs7wziaFyyhWfnO-MOVE_Do2YaFSZAjHTtCX_1Zp4G2q8PwmoI84aZs5ZNXtzW0icU",
+    "description": "Read, share and save more then 1,000 quotes.",
+    "installs": "",
+    "supportImgResize": true,
+    "url": "https:\/\/play.google.com\/store\/apps\/details?id=eu.zstoyanov.quotes"
+}, {
+    "name": "Moon Phases Calendar Lite",
+    "ns": "eu.zstoyanov.sky",
+    "image": "https:\/\/lh3.googleusercontent.com\/EqFyyizSJSwX2Nun6VDWiNkbzMu-H_asGmDoL3Xr1bcDMLvV3RCYJH6MtI2yILPJLo9w",
+    "description": "Lightweight app which shows moon phases, moon rise and moon set times and zodiac sign.",
+    "installs": "",
+    "supportImgResize": true,
+    "url": "https:\/\/play.google.com\/store\/apps\/details?id=eu.zstoyanov.sky"
+}]
