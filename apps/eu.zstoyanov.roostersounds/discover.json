@@ -1,0 +1,29 @@
+[
+{
+    "name": "Dog Sounds - Ringtones",
+    "ns": "eu.zstoyanov.dogsounds",
+    "description": "Are you a dog lover? Now you can hear various sounds from various types of dogs in our free Dog Sounds app.",
+    "image": "https:\/\/lh3.googleusercontent.com\/qqeU7LI_FOXLqdZo1fEZyKmdenScKax_qQLxt2h1wfw1H7CkyqWPZYNlN13UctKuHNo",
+    "installs": "",
+    "supportImgResize": true,
+    "url": "https:\/\/play.google.com\/store\/apps\/details?id=eu.zstoyanov.dogsounds"
+},
+{
+    "name": "Animal Sounds and Ringtones",
+    "ns": "eu.zstoyanov.animal.sounds",
+    "description": "Have fun with great collection of animal sounds. Use them as ringtone or notification sound.",
+    "image": "https://lh3.googleusercontent.com/hSt8ADUWZwkPprBC0K4WKZKMJ1reKDO15WTvne54w2gSlMDHiP6xrepEMxj66fZ4_jo",
+    "installs": "",
+    "supportImgResize": true,
+    "url": "https://play.google.com/store/apps/details?id=eu.zstoyanov.animal.sounds"
+},
+{
+    "name": "Cat Alarm and Ringtone Sounds",
+    "ns": "eu.zstoyanov.cats.sounds",
+    "description": "Are you a cat lover? Use this sounds to make your phone ring as a cat.",
+    "image": "https://lh3.googleusercontent.com/Ds0uicorgKFUvhNsFXjg3wWuB6w08NHLi4Jw3tYr0-qR5Z5Sv9PFRgaLss8s25UIOQ",
+    "installs": "",
+    "supportImgResize": true,
+    "url": "https://play.google.com/store/apps/details?id=eu.zstoyanov.cats.sounds"
+}
+]
