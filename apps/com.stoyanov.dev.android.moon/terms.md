@@ -1,6 +1,6 @@
 **Terms & Conditions**  
 
-These terms and conditions apply to the Moon Phases app for mobile devices, together with any related services operated by Zdravko Stoyanov (collectively, the "Application"). Zdravko Stoyanov is hereby referred to as the "Service Provider".
+These terms and conditions apply to the Moon Calendar app (formerly "Moon Phases & Sky Events") for mobile devices, together with any related services operated by Zdravko Stoyanov (collectively, the "Application"). Zdravko Stoyanov is hereby referred to as the "Service Provider".
 
 By downloading or using the Application, you agree to these Terms and Conditions. You should read them carefully before using the Application.
 
@@ -63,7 +63,6 @@ Please note that the Application utilizes third-party services that have their o
 
 *   [Google Play Services](https://policies.google.com/terms)
 *   [AdMob](https://developers.google.com/admob/terms)
-*   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
@@ -131,7 +130,7 @@ The Service Provider may periodically update their Terms and Conditions. Therefo
 
 Previous versions of these Terms and Conditions will be maintained and made available upon request by contacting the Service Provider at stoyanov.dev@gmail.com.
 
-These terms and conditions are effective as of 2026-06-07
+These terms and conditions are effective as of 2026-11-26
 
 **Contact Us**
 
