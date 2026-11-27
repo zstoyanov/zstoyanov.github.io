@@ -1,101 +1,101 @@
-**Privacy Policy**
+# Privacy Policy: Moon Calendar
 
-This privacy policy applies to the Moon Phases app for mobile devices, together with any related services operated by Zdravko Stoyanov (collectively, the "Application"). Zdravko Stoyanov is hereby referred to as the "Service Provider".
+**Effective date:** 26 November 2026
 
-**Information Collection and Use**
+Languages: **English** · [Български](privacy.bg.html) · [Deutsch](privacy.de.html) · [Español](privacy.es.html)
 
-The Application collects information when you download and use it. This information may include information such as
+This policy explains what information the Android app **Moon Calendar** (Bulgarian: "Лунен календар", package `com.stoyanov.dev.android.moon`, version 4.0 and later; earlier versions were published as "Moon Phases & Sky Events") handles. The app is made by Zdravko Stoyanov, an independent developer ("we", "us"), who is responsible for the app.
 
-*   Your device's Internet Protocol address
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   your mobile operating system you use
+## Short version
 
-**Cookies and tracking technologies**
+- The app has **no accounts, no sign-in, no analytics, no crash reporting and no servers of its own**. We do not receive any of your personal data.
+- All Moon, Sun and sky calculations run **offline on your phone**.
+- Your place (city or coordinates) and your settings are stored **only on your device** and are excluded from Android cloud backup.
+- Location access is **optional and approximate**, used once when you tap "Use my location". Your location is not sent to us or passed to the ads.
+- Notifications are scheduled **locally on your phone**; there is no push server.
+- The app shows **native ads from Google AdMob**, marked "Ad". Google may collect device data (such as the advertising ID and IP address) to show and measure ads. Where required (for example in the EEA, the UK and Switzerland), we ask for your consent first, using Google's consent tool.
+- We do not sell your data.
 
-The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
+## 1. Information stored on your device
 
-**Your Rights**
+The app keeps its settings in its private storage on your phone:
 
-You may request access to, correction of, or deletion of your personal data held by the Service Provider. To exercise these rights, or to withdraw consent where processing is based on consent, contact the Service Provider at stoyanov.dev@gmail.com.
+- your place: a city from the built-in list, or coordinates (rounded to 0.01°, about 1 km) and a time zone;
+- your preferences: language, theme, Moon picture, which sky events and traditional tips to show;
+- your notification choices (which notifications, at what time) and the list of notifications scheduled on the device;
+- whether you have finished the introduction.
 
-**Your California privacy rights (CCPA/CPRA)**
+These settings are **excluded from Android cloud backup and from device-to-device transfer**, so they stay on this phone only. They never leave your device through the app, and we have no way to read them.
 
-If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at stoyanov.dev@gmail.com.
+## 2. Information we collect
 
-The Service Provider may use the information you provide to send important information, required notices, and, where permitted by law, marketing communications.
+**None.** The app does not send any data to us. It does not ask for your name, e-mail, contacts, photos or any other personal information. The built-in city list and all astronomical data are part of the app, so searching for a city does not use the internet.
 
-For a better experience while using the Application, the Service Provider may require you to provide certain personally identifiable information, including but not limited to stoyanov.dev@gmail.com. The information the Service Provider requests will be retained and used as described in this privacy policy.
+### Location (optional)
 
-**Third Party Access**
+You can set your place in three ways: choose a city from the built-in list, enter coordinates by hand, or tap **"Use my location"**. Only in the last case does the app ask Android for **approximate location** (`ACCESS_COARSE_LOCATION`). It does not ask for precise location or background location.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+When you allow it, the app reads your approximate position once, while the app is open, rounds it to 0.01° and saves it in the settings described above. It is used only to calculate moonrise, moonset and other times for your place. The app **does not send your location to us or to anyone else, and does not pass it to the ads.** You can deny the permission and still use the app with a city or coordinates.
 
-**International Data Transfers**
+### Notifications (optional)
 
-The Service Provider or its third-party service providers may transfer personal data to countries outside your country of residence, including outside the European Economic Area (EEA). Where applicable law requires safeguards for international transfers, the Service Provider will use appropriate mechanisms.
+If you turn on notifications (Moon phases, eclipses, planet conjunctions, meteor showers, favourable days), the app asks for permission to show notifications (`POST_NOTIFICATIONS`, Android 13+). Notifications are calculated and scheduled **on your device**; the app also uses `RECEIVE_BOOT_COMPLETED` so it can restore them after the phone restarts. No data is sent anywhere for notifications.
 
-*   Standard Contractual Clauses (SCCs) approved by the European Commission
-*   Adequacy decisions or other legally recognized transfer mechanisms
-*   Your consent, where required and legally permitted
+## 3. Ads: Google AdMob and Google consent
 
-Data protection laws in other countries may differ from those in your jurisdiction. Where required by law, the Service Provider will apply appropriate safeguards and obtain any consent required for the transfer.
+The app includes software development kits (SDKs) from Google. These SDKs send data **directly to Google, not to us**. Google's handling of that data is described in [Google's Privacy Policy](https://policies.google.com/privacy) and in [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+### Google AdMob (Google Mobile Ads SDK)
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://policies.google.com/technologies/partner-sites)
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+The app shows at most one small native ad per screen, inside the content and labelled "Ad". There are no full-screen ads, and no ads in the introduction or in Settings. To show, limit and measure ads and to prevent fraud, Google's own disclosure says the SDK collects:
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+- your device's **IP address**, which may be used to estimate your general location;
+- **ad and app interactions**, such as app launches, taps and ad views;
+- **diagnostic information** about app and SDK performance;
+- **device identifiers**, such as the Android advertising ID and app set ID.
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information the Service Provider discloses to them, and have agreed to adhere to the rules set forth in this privacy statement.
+The app itself only adds a few fixed keywords to ad requests (moon, calendar, garden); it does not add your location or any other personal information. Google says this data is encrypted in transit. Ads may be personalised or non-personalised depending on your consent and your device settings. You can reset or delete your advertising ID, or opt out of personalised ads, in Android **Settings > Privacy > Ads** (the exact menu depends on your phone).
 
-**Opt-Out Rights**
+### Google User Messaging Platform (consent)
 
-You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
+If you are in the European Economic Area, the United Kingdom or Switzerland (or another region where Google requires it), the app shows Google's consent form before any ad is requested. Ads are requested only after the consent tool says they may be. Depending on your choice, Google shows personalised, non-personalised or limited ads. Your choice is stored on your device by Google's SDK. To do this, the SDK sends some device information (such as IP address and device/app identifiers) to Google.
 
-To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at stoyanov.dev@gmail.com.
+You can change your choice at any time: open **Settings** in the app and, under **Ads and privacy**, tap **Privacy settings**. This item appears whenever Google's consent tool says it is needed for your region.
 
-**Data Retention Policy**
+## 4. Legal basis (EEA/UK)
 
-The Service Provider retains personal data based on its necessity for the stated purposes:
+We do not collect personal data ourselves. The processing described in section 3 is carried out by Google. Where personalised advertising requires consent, it is requested through Google's consent form; you can withdraw it at any time as described above. Non-personalised ads may still use data for purposes such as frequency capping, fraud prevention and measurement, as described by Google. Location on your device is used only because you asked for it (by tapping "Use my location").
 
-*   User Provided Data: Retained for the duration of your use of the Application plus 12 months thereafter, unless longer retention is required by law
-*   Automatically Collected Data: Retained for up to 24 months from collection, unless longer retention is required for legal compliance
-*   Aggregated and Anonymized Data: Retained indefinitely as it no longer identifies you
-*   Data required for legal compliance: Retained as long as required by applicable law
+## 5. Sharing and sale of data
 
-You may request deletion of your personal data, subject to any legal obligation to retain it. If you want the Service Provider to delete User Provided Data submitted through the Application, please contact them at stoyanov.dev@gmail.com. Please note that some User Provided Data may be required for the Application to function properly.
+We do not sell, rent or share your personal data. We have none to share. Data collected by Google's ad SDKs is collected by Google as described in section 3.
 
-**Children**
+## 6. Children
 
-The Application is not intended for children under 16 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
+The app is a general-audience Moon calendar. It is **not directed at children under 13** and we do not knowingly collect personal information from children. If you believe a child is using the app, a parent or guardian can turn off personalised ads in the device's settings or contact us (section 10).
 
-Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 16 years of age in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (stoyanov.dev@gmail.com) so that they will be able to take the necessary actions.
+## 7. How long data is kept
 
-**Security**
+- Settings and your place stay on your device until you delete them (see section 8).
+- Data collected by Google is kept according to Google's own policies; see [How Google retains data](https://policies.google.com/technologies/retention).
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+## 8. Your choices and deleting your data
 
-**Data Breach Notification**
+- **Delete app data:** uninstall the app, or go to Android **Settings > Apps > Moon Calendar > Storage > Clear data**. This deletes your place, settings and scheduled notifications. Because they are not backed up, nothing remains with us or in your Google backup.
+- **Location:** deny or revoke the location permission at any time in Android settings; use a city or coordinates instead.
+- **Notifications:** turn them off in the app's Settings or in Android settings.
+- **Ad consent:** change it with **Privacy settings** in the app's Settings (see section 3).
+- **Advertising ID:** reset or delete it, or opt out of personalised ads, in Android's settings.
+- **Data held by Google:** see [Google's privacy controls](https://myaccount.google.com/data-and-privacy).
 
-If a data breach occurs that affects your personal data, the Service Provider will notify you in accordance with applicable legal requirements, including, where required, providing information about the nature of the breach and the steps being taken to address it.
+Under the GDPR you have the right to access, rectify, erase and port your personal data, to restrict or object to processing, to withdraw consent, and to lodge a complaint with a data protection authority (in Bulgaria: the Commission for Personal Data Protection, [cpdp.bg](https://www.cpdp.bg/)). Because we hold no personal data about you, we cannot access or delete data held by Google on your behalf, but we are happy to help you find the right place.
 
-**Changes**
+## 9. Changes to this policy
 
-The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
+Version 4.0 is a completely new app. Earlier versions of "Moon Phases & Sky Events" used Google Analytics for Firebase; version 4.0 and later do not include any analytics. If this policy changes, we will update this page and the effective date above.
 
-Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at stoyanov.dev@gmail.com.
+## 10. Contact
 
-This privacy policy is effective as of 2026-06-07
-
-**Your Consent**
-
-Where processing is based on consent, you provide that consent by affirmatively opting in to the relevant feature or action. You may withdraw consent at any time without affecting processing carried out before withdrawal. Processing based on other lawful bases is carried out as described above.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at stoyanov.dev@gmail.com.
+- Zdravko Stoyanov
+- E-mail: **stoyanov.dev@gmail.com**
+- Website: [https://stoyanov.dev](https://stoyanov.dev)
